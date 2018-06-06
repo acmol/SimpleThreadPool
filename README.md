@@ -1,2 +1,2 @@
-# AThreadPool
-a C++ thread pool implement
+# SimpleThreadPool
+a Simple C++ thread pool implement
